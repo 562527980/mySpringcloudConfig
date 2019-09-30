@@ -59,5 +59,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	<modules>
 		<module>myConfigServer</module>
 		<module>myConfigClenit</module>
+		<module>myConfigClenitMQ</module>
 	</modules>
 </project>
